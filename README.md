@@ -1,4 +1,7 @@
 # Pipes
+Simple App for showing the uses of the different Pipes on Angular (not responsive)
+Link to the app (hosted on Google Firebase Hosting):
+https://pipes-app-e2e66.web.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
 
